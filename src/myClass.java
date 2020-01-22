@@ -1,3 +1,3 @@
 public class myClass {
-    System.out.println("This is my class.") ;
+    System.out.println("This is my class.")    ;
 }
